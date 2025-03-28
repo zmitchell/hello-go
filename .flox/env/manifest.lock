@@ -5,6 +5,9 @@
     "install": {
       "go": {
         "pkg-path": "go"
+      },
+      "hub": {
+        "pkg-path": "hub"
       }
     },
     "hook": {},
@@ -139,6 +142,122 @@
       ],
       "outputs": {
         "out": "/nix/store/g29rrn8qqlg4yjqv543ryrkimr7fk43h-go-1.24.1"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hub",
+      "broken": false,
+      "derivation": "/nix/store/gdzbz0dhyrk7g812lbqgkrd675m9s5zv-hub-unstable-2022-12-01.drv",
+      "description": "Command-line wrapper for git that makes you better at GitHub",
+      "install_id": "hub",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=698214a32beb4f4c8e3942372c694f40848b360d",
+      "name": "hub-unstable-2022-12-01",
+      "pname": "hub",
+      "rev": "698214a32beb4f4c8e3942372c694f40848b360d",
+      "rev_count": 773904,
+      "rev_date": "2025-03-25T07:53:30Z",
+      "scrape_date": "2025-03-27T01:09:58.158957Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2022-12-01",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/wp39f2m2fz9p43lcf1p3xxcmaaqqbq8y-hub-unstable-2022-12-01"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hub",
+      "broken": false,
+      "derivation": "/nix/store/3wjfjkdyq4daq8dx4lwlplra3rid9yyh-hub-unstable-2022-12-01.drv",
+      "description": "Command-line wrapper for git that makes you better at GitHub",
+      "install_id": "hub",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=698214a32beb4f4c8e3942372c694f40848b360d",
+      "name": "hub-unstable-2022-12-01",
+      "pname": "hub",
+      "rev": "698214a32beb4f4c8e3942372c694f40848b360d",
+      "rev_count": 773904,
+      "rev_date": "2025-03-25T07:53:30Z",
+      "scrape_date": "2025-03-27T01:27:14.131650Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2022-12-01",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/8mazziiw8dvilvh7fa82bdmr1b2rr4rh-hub-unstable-2022-12-01"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hub",
+      "broken": false,
+      "derivation": "/nix/store/2jpcsvf6i5hnadwcwklqzhwcdmq0ml5d-hub-unstable-2022-12-01.drv",
+      "description": "Command-line wrapper for git that makes you better at GitHub",
+      "install_id": "hub",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=698214a32beb4f4c8e3942372c694f40848b360d",
+      "name": "hub-unstable-2022-12-01",
+      "pname": "hub",
+      "rev": "698214a32beb4f4c8e3942372c694f40848b360d",
+      "rev_count": 773904,
+      "rev_date": "2025-03-25T07:53:30Z",
+      "scrape_date": "2025-03-27T01:42:58.554872Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2022-12-01",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/qs6nbf1q8y2nyqz3v11q6h25m7sf037c-hub-unstable-2022-12-01"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hub",
+      "broken": false,
+      "derivation": "/nix/store/00db59ihf3l5z96b73h1nzcx9gigk2dp-hub-unstable-2022-12-01.drv",
+      "description": "Command-line wrapper for git that makes you better at GitHub",
+      "install_id": "hub",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=698214a32beb4f4c8e3942372c694f40848b360d",
+      "name": "hub-unstable-2022-12-01",
+      "pname": "hub",
+      "rev": "698214a32beb4f4c8e3942372c694f40848b360d",
+      "rev_count": 773904,
+      "rev_date": "2025-03-25T07:53:30Z",
+      "scrape_date": "2025-03-27T02:01:44.110938Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2022-12-01",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/f736bkj0cwyq1b9cbfhm8233adg48w44-hub-unstable-2022-12-01"
       },
       "system": "x86_64-linux",
       "group": "toplevel",
